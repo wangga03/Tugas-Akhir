@@ -2,9 +2,9 @@ git branch <nama_branch> : Digunakan untuk membuat branch baru
 git checkout <nama_baranch> : digunakan untuk pindah branch
 Merge :
   Misal kita ingin merge " wgg -> main " :
-    1. pergi ke main dulu : git checkout main
-    2. baru jalankan : git merge wgg
-    3. kemudian jalankan : git push
+    - pergi ke main dulu : git checkout main
+    - baru jalankan : git merge wgg
+    - kemudian jalankan : git push
 
 Untuk cek sedang berada di branch mana :
 1. git status
