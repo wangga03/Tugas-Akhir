@@ -1,3 +1,3 @@
-Berisi tentang :
+*Berisi tentang :
 - Program Kendali
 - Program Adaptive Sampling
