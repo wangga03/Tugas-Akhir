@@ -1,0 +1,18 @@
+### Footprint positions - created on 2025-06-14T17:27:15+0700 ###
+### Printed by KiCad version 8.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                 PosX       PosY       Rot  Side
+D1        1N4007_SMD  D_SMA                91.5670   -37.4650  -90.0000  bottom
+D2        1N4007_SMD  D_SMA                91.6180   -56.0070  -90.0000  bottom
+D3        1N4007_SMD  D_SMA                91.9480   -73.5000  -90.0000  bottom
+D4        1N4007_SMD  D_SMA                91.9480   -90.8050  -90.0000  bottom
+Q1        BC847B      SOT100P230X110-3N    86.5200   -39.4125  -90.0000  bottom
+Q2        BC847B      SOT100P230X110-3N    86.5200   -58.0000  -90.0000  bottom
+Q5        BC847B      SOT100P230X110-3N    86.5622   -75.5000  -90.0000  bottom
+Q6        BC847B      SOT100P230X110-3N    86.7400   -92.7500  -90.0000  bottom
+R3        220R        R_0805_2012Metric    86.5000   -35.4125  180.0000  bottom
+R11       220R        R_0805_2012Metric    86.5000   -54.0000  180.0000  bottom
+R16       220R        R_0805_2012Metric    86.5622   -71.0000  180.0000  bottom
+R19       220R        R_0805_2012Metric    86.7400   -88.2500  180.0000  bottom
+## End

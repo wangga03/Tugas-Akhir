@@ -1,0 +1,22 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.7*%
+%TF.CreationDate,2025-06-14T17:24:23+07:00*%
+%TF.ProjectId,Tubes Mk. PCB,54756265-7320-44d6-9b2e-205043422e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,4,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.7) date 2025-06-14 17:24:23*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,3.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,REF\u002A\u002A*%
+X69977000Y-71501000D03*
+X86741000Y-102743000D03*
+M02*
